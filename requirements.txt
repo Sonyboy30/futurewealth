@@ -1,1 +1,6 @@
-pip freeze > requirements.txt
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+scipy
